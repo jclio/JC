@@ -1,0 +1,39 @@
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\bin\Debug\diceRoll.exe
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\bin\Debug\diceRoll.pdb
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\MainWindow.baml
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\MainWindow.g.cs
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\App.g.cs
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\diceRoll_MarkupCompile.cache
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\diceRoll.g.resources
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\diceRoll.Properties.Resources.resources
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\diceRoll.exe
+C:\Users\YouBee\AppData\Local\Temporary Projects\diceRoll\obj\x86\Debug\diceRoll.pdb
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\diceRoll.exe
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\diceRoll.pdb
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\bin\Debug\diceRoll.exe
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\bin\Debug\diceRoll.pdb
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\MainWindow.baml
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\MainWindow.g.cs
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\App.g.cs
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\diceRoll_MarkupCompile.cache
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\diceRoll.g.resources
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\diceRoll.Properties.Resources.resources
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\YouBee\Desktop\diceRoll\diceRoll\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\bin\Debug\diceRoll.exe
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\bin\Debug\diceRoll.pdb
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\diceRoll.csprojResolveAssemblyReference.cache
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\MainWindow.baml
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\MainWindow.g.cs
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\App.g.cs
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\diceRoll_MarkupCompile.cache
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\diceRoll.g.resources
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\diceRoll.Properties.Resources.resources
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\diceRoll.csproj.GenerateResource.cache
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\diceRoll.csproj.CoreCompileInputs.cache
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\diceRoll.exe
+C:\Connect2018Demo\Dice Rolling and Number Display\C#\diceRoll\obj\x86\Debug\diceRoll.pdb
