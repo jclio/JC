@@ -1,2 +1,0 @@
-class GOCDDataFetchException < Exception
-end
