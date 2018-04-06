@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Brush+Script');
+
+body {
+	background-color: gray;
+}
+
+nav {
+	width: 100%;
+	height: 70px;
+	border-style: solid;
+}
+
+header {
+	width: 100%;
+	height: 600px;
+	background-image: url(https://x86.co.kr/files/attach/images/1589251/387/480/001/e155831bcda20fbad930d75acb422921.jpg);
+	background-size: cover;
+}
+
+section  {
+	width: 100%;
+	padding: auto;
+}
+
+footer {
+	width: 100%;
+	padding: auto;
+	border-style: solid;
+	background-color: black;
+}
+
+h1 {
+	line-height: 70px;
+}
+
+h2 {
+	font-size: 60px;
+	font-family: 'Nanum Brush Script', cursive;
+}
+
+header p {
+	font-size: 18px;
+}
+
+section p {
+	font-size: 15px;
+}
+
+article {
+	width: 310px;
+	height: auto;
+}
+
+.top {
+	font-size: 15px;
+	text-align: right;
+	line-height: 70px;
+}
+
+.container1 {
+	width: 960px;
+	height: auto;
+	top: 0; 
+	left: 0; 
+	bottom: 0; 
+	right: 0;
+	margin: auto;
+}
+
+.col-sm {
+	width: 320px;
+}
+
+nav .container1 {
+	height: 70px;
+	font-family: 'Nanum Pen Script', cursive;
+}
+
+header .container1 {
+	height: 600px;
+	text-align: center;
+	padding-top: 200px;
+}
+
+footer .container1 {
+	width: 960px;
+	font-size: 15px;
+	text-align: center;
+	color: white;
+}
