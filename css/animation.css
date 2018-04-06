@@ -1,0 +1,37 @@
+@keyframes scaleDiamond{
+  0%{transform:scale(0.8);} 
+  100%{transform:scale(1);}
+
+}
+ @keyframes Electrocardiogram_triangle{
+  0%{opacity: 0.7;} 
+  100%{opacity: 1;}
+
+}
+ @keyframes track2{
+  0%{opacity: 1;width: 66px;transform: translate(67px,150px);} 
+  60%{width: 40px;transform: translate(80px,130px);opacity: 1;}
+  61%{opacity: 0;}
+  100%{opacity: 0;}
+}
+
+ @keyframes track3{
+  0%{opacity: 0;} 
+  39%{opacity: 0;} 
+  40%{ opacity: 1; width: 66px; transform: translate(67px,150px);} 
+  100%{width: 40px;transform: translate(80px,130px);}
+}
+
+@keyframes bag{ 
+  from{transform: translate(0,90px);} 
+  to{transform: translate(0,80px);} 
+}
+@keyframes screen{ 
+  from{background-color:grey;} 
+  to{background-color:  rgb(179, 255, 255);} 
+}
+
+@keyframes jump{
+  from{transform: translate(0,0);}
+  to{transform: translate(0,-10px);}
+}
